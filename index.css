@@ -23,7 +23,6 @@ h2,h3{
 .container .btn:hover{
     background-color: aquamarine;
     color: black;
-    letter-spacing: 3px;
 }
 img{
     height: 200px;
