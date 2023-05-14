@@ -10,7 +10,7 @@ h2,h3{
 }
 .container .btn{
     background-color: green;
-    height: 35px;
+    height: 30px;
     width: 200px;
     padding: 8px 20px;
     border: none;
@@ -23,6 +23,7 @@ h2,h3{
 .container .btn:hover{
     background-color: aquamarine;
     color: black;
+    
 }
 img{
     height: 200px;
